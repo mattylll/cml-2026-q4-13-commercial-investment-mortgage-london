@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mattylll.github.io/cml-2026-q4-13-commercial-investment-mortgage-london/sitemap.xml
